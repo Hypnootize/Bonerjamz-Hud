@@ -1,6 +1,5 @@
 "Resource/UI/HudObjectiveKothTimePanel.res"
 {	
-
 	"HudKothTimeStatus"
 	{
 		if_match
@@ -23,8 +22,8 @@
 		
 		if_match
 		{
-			"xpos"				"38"
-			"ypos"				"0"
+			"xpos"				"34"
+			"ypos"				"10"
 		}
 		
 		"TimePanelValue"
@@ -46,7 +45,6 @@
 			if_match
 			{
 				"font"			"m0refont11"
-				"ypos"			"10"
 			}
 		}
 	}
@@ -65,8 +63,8 @@
 		
 		if_match
 		{
-			"xpos"				"62"
-			"ypos"				"0"
+			"xpos"				"68"
+			"ypos"				"10"
 		}
 		
 		"TimePanelValue"
@@ -88,7 +86,6 @@
 			if_match
 			{
 				"font"			"m0refont11"
-				"ypos"			"10"
 			}
 		}	
 	}
