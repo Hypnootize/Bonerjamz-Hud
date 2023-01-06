@@ -903,10 +903,10 @@
 		"xpos_lodef"			"c-190"
 		"ypos"				"270"
 		"ypos_lodef"			"250"
-		"wide"					"266"
-		"wide_lodef"			"400"
-		"tall"					"120"
-		"tall_lodef"			"190"
+		"wide"					"0"
+		"wide_lodef"			"0"
+		"tall"					"0"
+		"tall_lodef"			"0"
 	}
 	
 	FreezePanel
@@ -1349,6 +1349,22 @@
 		"zpos"		"1"
 		"wide"		"f0"
 		"tall"		"480"
+		
+		"PaintBackgroundType"	"2"
+	}
+
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"0"
+		"ypos"				"r100"
+		"wide"				"100"
+		"tall"				"100"
+		"xpos_minmode"		"65"
+		"ypos_minmode"		"r88"
+		"visible" 			"0"
+		"enabled" 			"1"
 		
 		"PaintBackgroundType"	"2"
 	}
